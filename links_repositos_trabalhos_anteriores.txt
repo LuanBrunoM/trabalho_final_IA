@@ -1,0 +1,9 @@
+Links dos repositorios dos trabalhos anteriores:
+
+RNA: https://github.com/LuanBrunoM/classificador_RNA
+
+cargas_aviao: https://github.com/LuanBrunoM/aviao_algoritmosGeneticos
+
+missionarios: https://github.com/LuanBrunoM/missionario-canibal 
+
+video_seminario: https://drive.google.com/file/d/10lvxNX0UQ24lOAtJ8642-uIVvVLCQMDf/view?usp=sharing
